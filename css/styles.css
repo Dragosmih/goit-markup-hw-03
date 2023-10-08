@@ -401,7 +401,7 @@ letter-spacing: 0.42px;
 }
 
 .footer-link:hover, :active, :focus {
-  color: var(--logo-colo);
+  color: var(--logo-color);
 }
 
 /* Portfolio */
